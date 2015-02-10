@@ -14,7 +14,7 @@ Ce n'est ni un standard ni une norme qu'il faudrait suivre pour être certifié.
 
 Il conseille sur ce qu'il faut faire pour gérer les systèmes d'informations mais ne dit pas comment le faire.   
 ITIL n'est pas réservé aux grands groupes de plusieurs milliers de salariés.   
-En fait, quelle que soit sa taille, les bonnes pratiquent d'ITIL doivent être adaptées aux spécificités de l'entreprise.   
+En fait, quelle que soit sa taille, les bonnes pratiques d'ITIL doivent être adaptées aux spécificités de l'entreprise.   
    
 Il se compose de processus mais ne précise pas, volontairement, dans quel ordre les mettre en place.   
    
@@ -28,7 +28,7 @@ Ce processus permet de connaître les composants du SI et leurs relations au sei
 Dans notre cas, il n'est pas utile d'investir dans des outils complexes et un logiciel d'inventaire de parc informatique est un bon début (OCS-Inventory par exemple).   
 
 # Gestion des Incidents
-Ce processus est chargé de traiter tous les événements qui sortent du cadre normal de fonctionnement du SI. L'objectif est de rétablir les conditions normales au plus vite. On prendra soir d'établir un point de contact unique accessible par mail, téléphone ou mieux au travers d'un système de tickets (JIRA par exemple). La description de l'incident référence les éléments défaillants en utilisant la même nomenclature que celle utilisée dans la CMDB. Le suivi de l'incident est aussi de la responsabilité de ce processus.   
+Ce processus est chargé de traiter tous les événements qui sortent du cadre normal de fonctionnement du SI. L'objectif est de rétablir les conditions normales au plus vite. On prendra soin d'établir un point de contact unique accessible par mail, téléphone ou mieux au travers d'un système de tickets (JIRA par exemple). La description de l'incident référence les éléments défaillants en utilisant la même nomenclature que celle utilisée dans la CMDB. Le suivi de l'incident est aussi de la responsabilité de ce processus.   
 
 # Gestion des Problèmes
 Quand plusieurs incidents identiques se produisent sans que les causes soient connues, ITIL parle de problème. Quand les causes sont établies, le problème devient une erreur connue. Ce processus est chargé de déterminer les causes du problème afin de trouver une solution définitive.   
