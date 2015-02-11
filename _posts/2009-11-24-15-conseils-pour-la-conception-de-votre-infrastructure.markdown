@@ -42,10 +42,10 @@ Une solution sur étagère est en général plus mature qu'une solution dévelop
 Les applications ne sont pas exemptes de défauts. Pour qu'un défaut ne soit pas synonyme de rupture de service, un système appelé watchdog peut surveiller l'état des applications et les relancer quand leur comportement sort des limites autorisées.
 
 # Limiter l'utilisation des bases de données relationnelles
-Les bases de données relationnelles sont très utiles pour stocker de gros volume de données liées entre elles. Par contre, la lecture et surtout l'écriture de ces données sont très lentes comparées à un accès en mémoire vive. Pour avoir de meilleurs performances, il faut utiliser d'autres moyens de stockage (cache en mémoire vive, cache en réseau, bases de données non relationnelles, ...)
+Les bases de données relationnelles sont très utiles pour stocker de gros volume de données liées entre elles. Par contre, la lecture et surtout l'écriture de ces données sont très lentes comparées à un accès en mémoire vive. Pour avoir de meilleurs performances, il faut utiliser d'autres moyens de stockage (cache en mémoire vive, [cache en réseau](http://memcached.org/), [bases de données non relationnelles](http://fr.wikipedia.org/wiki/NoSQL), ...)
 
 # Utiliser des protocoles de communication standards et ouverts
-L'utilisation de protocoles tels que TCP, HTTP ou SOAP  réduit les problèmes d'interopérabilité, tout en autorisant l'échange de données structurées.  Cela permet aussi d'avoir plus de choix dans la sélection du matériel et des logiciels.
+L'utilisation de protocoles tels que TCP, HTTP ou [SOAP](http://www.w3.org/TR/soap12/)  réduit les problèmes d'interopérabilité, tout en autorisant l'échange de données structurées.  Cela permet aussi d'avoir plus de choix dans la sélection du matériel et des logiciels.
 
 # Eviter les points uniques de défaillance (SPOF)
 Un point unique de défaillance implique une rupture de service en cas de panne. S'il ne peut être éviter, il faut mitiger son effet par la mise en place d'équipements de secours.
