@@ -3,6 +3,9 @@ layout: page
 description: "A Clean Blog Theme by Start Bootstrap"
 ---
 
+<!-- Whitespace added for readability -->
+
+
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -14,7 +17,7 @@ description: "A Clean Blog Theme by Start Bootstrap"
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Post&eacute; par {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{% assign m = post.date | date: "%-d " %}{{ post.date | date: "%-m " }}{% case m %}{% when '1' %}janvier{% when '2' %}f&eacute;vrier{% when '3' %}mars{% when '4' %}avril{% when '5' %}mai{% when '6' %}juin{% when '7' %}juillet{% when '8' %}ao&ucirc;t{% when '9' %}septembre{% when '10' %}octobre{% when '11' %}novembre{% when '12' %}deacute;cembre{% endcase %}{{ post.date | date: "%Y" }}</p>
 </div>
 <hr>
 {% endfor %}
@@ -24,12 +27,12 @@ description: "A Clean Blog Theme by Start Bootstrap"
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Nouveaux posts</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Anciens posts &rarr;</a>
     </li>
     {% endif %}
 </ul>
