@@ -1,10 +1,10 @@
 # Site settings
-title: Clean Blog
+title: sebbrochet
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: ""
-url: "https://sebbrochet.github.io/"
+email: contact@sebbrochet.com
+description: "Consulting CTO - Problématiques d'infrastructure au quotidien"
+baseurl: "/"
+url: "https://sebbrochet.github.io"
 twitter_username: sebbrochet
 github_username:  sebbrochet
 #facebook_username:  IronSummitMedia
