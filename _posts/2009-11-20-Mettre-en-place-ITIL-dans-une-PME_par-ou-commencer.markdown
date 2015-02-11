@@ -25,10 +25,10 @@ Notre petite structure ayant, pour l'exemple, des développements spécifiques a
    
 # Gestion de la Configuration
 Ce processus permet de connaître les composants du SI et leurs relations au sein de ce qu'on appelle une CMDB (Configuration  Management Database).   
-Dans notre cas, il n'est pas utile d'investir dans des outils complexes et un logiciel d'inventaire de parc informatique est un bon début (OCS-Inventory par exemple).   
+Dans notre cas, il n'est pas utile d'investir dans des outils complexes et un logiciel d'inventaire de parc informatique est un bon début ([OCS-Inventory](http://www.ocsinventory-ng.org/) par exemple).   
 
 # Gestion des Incidents
-Ce processus est chargé de traiter tous les événements qui sortent du cadre normal de fonctionnement du SI. L'objectif est de rétablir les conditions normales au plus vite. On prendra soin d'établir un point de contact unique accessible par mail, téléphone ou mieux au travers d'un système de tickets (JIRA par exemple). La description de l'incident référence les éléments défaillants en utilisant la même nomenclature que celle utilisée dans la CMDB. Le suivi de l'incident est aussi de la responsabilité de ce processus.   
+Ce processus est chargé de traiter tous les événements qui sortent du cadre normal de fonctionnement du SI. L'objectif est de rétablir les conditions normales au plus vite. On prendra soin d'établir un point de contact unique accessible par mail, téléphone ou mieux au travers d'un système de tickets ([JIRA](http://www.atlassian.com/software/jira/) par exemple). La description de l'incident référence les éléments défaillants en utilisant la même nomenclature que celle utilisée dans la CMDB. Le suivi de l'incident est aussi de la responsabilité de ce processus.   
 
 # Gestion des Problèmes
 Quand plusieurs incidents identiques se produisent sans que les causes soient connues, ITIL parle de problème. Quand les causes sont établies, le problème devient une erreur connue. Ce processus est chargé de déterminer les causes du problème afin de trouver une solution définitive.   
