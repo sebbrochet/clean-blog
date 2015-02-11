@@ -18,6 +18,26 @@ description: "Problématiques d'infrastructure au quotidien"
         {% endif %}
     </a>
     <p class="post-meta">Post&eacute; par {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%-d " }}{% assign m = post.date | date: "%-m " %}{% case m %}{% when '1' %}janvier{% when '2' %}f&eacute;vrier{% when '3' %}mars{% when '4' %}avril{% when '5' %}mai{% when '6' %}juin{% when '7' %}juillet{% when '8' %}ao&ucirc;t{% when '9' %}septembre{% when '10' %}octobre{% when '11' %}novembre{% when '12' %}deacute;cembre{% endcase %}{{ post.date | date: "%Y" }}</p>
+    <!-- Whitespace added for readability -->
+    <p class="post-meta">Post&eacute; par {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on
+<!-- Whitespace added for readability -->
+{{ post.date | date: "%-d" }}
+{% assign m = post.date | date: "%-m" %}
+{% case m %}
+  {% when '1' %}janvier
+  {% when '2' %}f&acute;vrier
+  {% when '3' %}mars
+  {% when '4' %}avril
+  {% when '5' %}mai
+  {% when '6' %}juin
+  {% when '7' %}juillet
+  {% when '8' %}ao&ucric;t
+  {% when '9' %}septembre
+  {% when '10' %}octobre
+  {% when '11' %}novembre
+  {% when '12' %}decembre
+{% endcase %}
+{{ post.date | date: "%Y" }}</p>
 </div>
 <hr>
 {% endfor %}
