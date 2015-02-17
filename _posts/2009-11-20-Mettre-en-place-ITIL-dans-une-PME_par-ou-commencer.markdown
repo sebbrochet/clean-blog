@@ -6,6 +6,7 @@ tags: ITIL PME
 date:       2009-11-20 12:00:00
 author:     "sebbrochet"
 header-img: "img/post-bg-01.jpg"
+comments: true
 ---
 
 [ITIL](http://www.itil-officialsite.com/) (Information Technology Infrastructure Library) est un référentiel de bonnes pratiques.   
