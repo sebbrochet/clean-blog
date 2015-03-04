@@ -11,7 +11,7 @@ C'était un soir comme tous les autres. J'étais face à mon ordinateur à surfe
 
 J'active l'onglet [contenant mon tableau de bord viadeo](http://www.viadeo.com/tableaudebord/accueil/), je raffraichis machinalement la page quand soudain j'obtiens une page d'erreur **HTTP 500 et un message Out of Memory !**
 
-![VIADEO]({{ site.url }}/img/2010/viadeo_out_of_memory_stack_trace.jpg)
+![VIADEO]({{ site.url }}/img/2010/viadeo_out_of_memory_stack_trace.png)
 
 A y regarder de plus près, nous avons là une longue pile d'exécution qui pour des personnes comme moi se lit tel un roman ;-) Je retrouve les "usual suspects" (**apache, tomcat, memcache, ...**) et c'est plus que révélateur sur la nature de l'architecture qui propulse le réseau social viadeo !  
 
