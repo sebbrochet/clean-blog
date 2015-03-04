@@ -57,7 +57,7 @@ Mais la **cause du dysfonctionnement** n'est pas là. Après examen poussée de 
 ![Souflet déchiré]({{ site.url }}/img/2011/souflet_dechire_-_low.JPG)
 
 L'information est consignée, la **procédure d'échange de robinet flotteur est documentée** pour les prochains incidents du même type qui pourraient avoir lieu.  
-Après **confirmation par l'utilisateur* à l'origine du rapport d'incident que l'incident ne se produit plus, **le rapport est clos**.  
+Après **confirmation par l'utilisateur** à l'origine du rapport d'incident que l'incident ne se produit plus, **le rapport est clos**.  
 
 Comme vous avez pu le constater, l'utilisation d'ITIL ne se limite pas aux infrastructures informatiques !  
 Avez-vous eu également l'occasion de mettre en place ITIL dans un environnement "hors-norme" ?  
