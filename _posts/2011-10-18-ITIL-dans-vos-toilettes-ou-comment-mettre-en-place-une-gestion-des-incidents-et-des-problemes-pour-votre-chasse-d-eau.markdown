@@ -32,7 +32,7 @@ Le département Finance s"inquiète des **conséquences financières** et demand
 Le service incident **monopolise de nouvelles ressources et recoupe les différents éléments en sa possession**. Un élément attire leur attention: un bruit de remplissage d'eau se fait entendre de manière quasi-permanente même quand le réservoir est plein.  
 Heureusement un **mécanisme de coupure** de l'arrivée d'eau a été mis en place par le constructeur du système de toilettes.  
 
-![Robinet arrêt])({{ site.url }}/img/2011/robinet_d_arret_-_low.jpg)
+![Robinet arrêt]({{ site.url }}/img/2011/robinet_d_arret_-_low.jpg)
 
 Mais en verrouillant le robinet d'arrêt, **un autre incident survient**: le robinet laisse perler régulièrement une goutte d'eau en position fermée. Cette **solution de contournement** est vite écartée.  
 
