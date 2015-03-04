@@ -11,9 +11,9 @@ Le mardi 29 novembre 2011 se tenait au CNIT le 9ème salon annuel de l'[itSMF Fr
 
 ![Bannière itSMF 2011]({{ site.url }}/img/2011/itsmfconf2011/banniere438x60px_itsmf.jpg)
 
-![Twitter pres itil 2011 1]({{ site.url }}/img/2011/itsmfconf2011/twitter_pres_itil_2011_1.jpg)
+![Twitter pres itil 2011 1]({{ site.url }}/img/2011/itsmfconf2011/twitter_pres_itil_2011_1.png)
 
-![Twitter pres itil 2011 2]({{ site.url }}/img/2011/itsmfconf2011/twitter_pres_itil_2011_2.jpg)
+![Twitter pres itil 2011 2]({{ site.url }}/img/2011/itsmfconf2011/twitter_pres_itil_2011_2.png)
 
 C'est **Vincent Douhairie, Directeur Général d'Amettis et administrateur itSMF France** qui a eu la responsabilité d'ouvrir le salon en nous parlant d'ITIL v2011, la dernière itération en date du référentiel de bonnes pratiques pour la gestion des SI. Devant un parterre de courageux matinaux il a su présenter en moins de 30 minutes les principales nouveautés :  
 
@@ -37,7 +37,7 @@ C'est **Vincent Douhairie, Directeur Général d'Amettis et administrateur itSMF
  
 C'est ensuite au tour de **Rémy Berthou, président de l'itSMF France mais également DSI de la SNCF**, de présenter les grands axes de cette journée. En nous racontant de manière plutôt humoristique le rêve qu'il a fait dernièrement, il passe en revue l'ensemble des pré-requis et des actions à mettre en œuvre pour transformer une DSI en fournisseurs de services.  
 
-![Twitter JP Dehez]({{ site.url }}/img/2011/http://itsmfconf2011/twitter_jp_dehez_csp.png)
+![Twitter JP Dehez]({{ site.url }}/img/2011/itsmfconf2011/twitter_jp_dehez_csp.png)
 
 Un peu plus tard, **Jean-Pierre Dehez, consultant en Organisation et Systèmes d'information, ex VP IT Alstom** nous fait part de son expérience dans la mise en place d'un **Centre de Services Partagé**. Il insiste sur des points clefs lors de sa présentation:  
 
@@ -90,7 +90,7 @@ La pause repas qui a suivi a permis de faire de nouveau une visite rapide de que
 
 ![Twitter Bouygues Telecom]({{ site.url }}/img/2011/itsmfconf2011/twitter_bouygues_telecom_itil.png)
 
-![Twitter Srmvison]({{ site.url }}/img/2011/itsmfconf2011/twitter_srmvision_facil_itil_.png)
+![Twitter Srmvison]({{ site.url }}/img/2011/itsmfconf2011/twitter_srmvision_facil_itil.png)
 
 En début d'après-midi ont été remis différent trophées de l'itSMF France. Ainsi le trophée de la **meilleure mise en place d'ITIL est revenu à Bouygues Télécom** tandis que Pôle Emploi et Sanofi Avantis étaient nominés. Le trophée **Facil ITIL** qui récompensait la société qui a le mieux accompagné les mises en place ITIL en 2011 a été décerné à **SRMVision** tandis que Atep Services et Staff&Line étaient nominés.  
 
