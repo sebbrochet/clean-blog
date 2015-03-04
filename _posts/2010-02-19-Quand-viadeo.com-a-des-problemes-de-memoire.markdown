@@ -31,7 +31,7 @@ En fait, en testant avec un autre navigateur et via un proxy web public, [la pag
 
 **Le problème est donc lié à mon compte utilisateur** et comme nous allons le voir, **plus précisément à ma session**.  
 
-J'affiche les [cookies](http://fr.wikipedia.org/wiki/Cookie_%28informatique%29) liés au site viadeo.com (sous Firefox 3.5, menu *outils|options|vie privée|supprimer des cookies spécifiques*):
+J'affiche les [cookies](http://fr.wikipedia.org/wiki/Cookie_%28informatique%29) liés au site viadeo.com (sous Firefox 3.5, menu outils|options|vie privée|supprimer des cookies spécifiques):
 
 ![Video cookies]({{ site.url }}/img/2010/viadeo_cookies.png)
 
