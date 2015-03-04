@@ -17,7 +17,7 @@ Pour dépanner rapidement l'utilisateur, l'adresse du serveur SMTP est modifiée
 
 Une fois le choc passé, la lecture du détail du diagnostic pour l'adresse IP en question [(http://cbl.abuseat.org/lookup.cgi?ip=x.x.x.x)](http://cbl.abuseat.org/lookup.cgi?ip=x.x.x.x) explique la marche à suivre.  
 
-![CBL Report]({{ site.url }}/img/2012/cbl_report_x-x-x-x.jpg)
+![CBL Report]({{ site.url }}/img/2012/cbl_report_x-x-x-x.png)
 
 Elle précise par exemple la nature du code malveillant qui officie derrière cette adresse IP et indique comment la détection a été réalisée. Ainsi 2 adresses IP publiques sont listées avec le dernier accès vers celles-ci et l'heure précise où il a été réalisé, en provenance de l'IP qui est maintenant listée dans la CBL.  
 
@@ -35,7 +35,7 @@ Le jour et l'heure concordent avec l'information donnée par Spamhaus, nous teno
 
 Ensuite, une nouvelle recherche avec l'adresse IP blacklistée et le port utilisé (39519) par cette connexion remonte le nom de la machine infectée avec son adresse IP.  
 
-![Syslog IP found]({{ site.url }}/img/2012/syslog_local_IP_found.jpg)
+![Syslog IP found]({{ site.url }}/img/2012/syslog_local_IP_found.png)
 
 Cette machine est configurée en DHCP et utilise donc une adresse IP dynamique. De manière à l'isoler du réseau, à distance comme dans mon cas, 2 actions sont nécessaires:  
 
