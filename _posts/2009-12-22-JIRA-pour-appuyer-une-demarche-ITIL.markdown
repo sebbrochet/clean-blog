@@ -22,7 +22,7 @@ Sa grand flexibilité et la possibilité de créer des écrans ou des workflows 
 ![JIRA]({{ site.url }}/img/2009/jira_itil.png)
 
 Les explications qui suivent s'adaptent plus à ITIL V2, plutôt axé sur l'opérationnel qu'à ITIL V3 qui porte plus l'accent sur la stratégie.
-Nous traiterons donc **principalement des processus de soutient des services* tout en évoquant rapidement les processus liés à la **fourniture de services**.
+Nous traiterons donc **principalement des processus de soutient des services** tout en évoquant rapidement les processus liés à la **fourniture de services**.
 
 # Gestion de Configuration
 
