@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ITIL dans vos toilettes..."
+title: "Résumé du 9ème salon itSMF France (29 novembre 2011)"
 tags: ITIL
 date:       2011-11-29 7:00:00
 author:     "sebbrochet"
