@@ -7,7 +7,7 @@ author:     "sebbrochet"
 comments: true
 ---
 
-Ça y est, []vous avez bouclé la conception]({{ site.url }}/2009/11/24/15-conseils-pour-la-conception-de-votre-infrastructure/) et vient le moment de penser à l'implémentation !  
+Ça y est, [vous avez bouclé la conception]({{ site.url }}/2009/11/24/15-conseils-pour-la-conception-de-votre-infrastructure/) et vient le moment de penser à l'implémentation !  
 
 Voici quelques conseils personnels pour vous aider à éviter certains pièges.  
 
