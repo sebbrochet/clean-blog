@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nouvelle vie, nouveau blog"
+title: "Nouvelle vie, nouveau blog !"
 tags: BLOG INDEPENDANT
 date:       2015-03-05 10:00:00
 author:     "sebbrochet"
