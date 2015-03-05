@@ -5,7 +5,7 @@ subtitle:   "14-15 avril au MAS"
 tags: DEVOPS DEVOPSDAYS PARIS
 date:       2015-03-06 7:00:00
 author:     "sebbrochet"
-header-img: "img/paris.jpg"
+header-img: "img/2015/paris.jpg"
 comments: true
 ---
 
