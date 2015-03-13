@@ -4,10 +4,9 @@ header-img: img/home-bg.jpg
 email: contact@sebbrochet.com
 description: "sebbrochet - Consulting CTO @ Cloudenza"
 baseurl: ""
-url: "https://sebbrochet.github.io"
+url: "http://blog.sebbrochet.com"
 twitter_username: sebbrochet
 github_username:  sebbrochet
-#facebook_username:  IronSummitMedia
 linkedin_username: sebastienbrochet
 
 # Build settings
