@@ -7,6 +7,7 @@ layout: default
     <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
     <meta itemprop="description" content="{{ content | strip_html | truncatewords: 40 }}" />
 	{% include opengraph.html %}
+	{% include twitter_cards %}
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
