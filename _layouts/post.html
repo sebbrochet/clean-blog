@@ -15,7 +15,6 @@ layout: default
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
-{{ page.date | date: "%-d" }}
                     <span class="meta">Post&eacute; par {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} le <!-- Whitespace added for readability -->
 {% assign m = page.date | date: "%-m" %}
 {% case m %}

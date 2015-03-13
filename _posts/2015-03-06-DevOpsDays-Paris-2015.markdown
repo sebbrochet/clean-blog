@@ -20,5 +20,7 @@ Le CFP vient de se terminer et les organisateurs, dont j'ai la chance de faire p
 Ce qui laisse présager au final d'une bonne représentation de "l'état de l'art" en terme d'expériences DevOps !  
 
 Je vous invite donc à surveiller [la page du programme](http://www.devopsdays.org/events/2015-paris/program/) pour avoir le contenu précis des présentations.  
-Et si vous n'avez pas encore votre billet, il reste des places mais dépêchez-vous ;-)
+Et si vous n'avez pas encore votre billet, il reste des places mais dépêchez-vous ;-)  
+  
+**Edit du 13/03/2015**: Le programme est maintenant dispo avec des talks plutôt orientés culture DevOps. Nous aurons l'occasion de parler des outils dans les openspaces !
 
