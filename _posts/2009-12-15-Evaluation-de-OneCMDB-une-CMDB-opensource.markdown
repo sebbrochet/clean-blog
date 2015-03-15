@@ -5,6 +5,8 @@ tags: CMDB ITIL  ONECMDB OPENSOURCE
 date:       2009-12-15 7:00:00
 author:     "sebbrochet"
 comments: true
+redirect_from:
+  - /post/Evaluation-de-OneCMDB,-une-CMDB-opensource
 ---
 
 [OneCMDB](http://www.onecmdb.org/), édité par la société Lokomo, est un des logiciels de CMDB opensource les plus aboutis. La version 2.01 est sortie en septembre dernier. C'est l'occasion d'évaluer plus en détails les caractéristiques de cette nouvelle version.

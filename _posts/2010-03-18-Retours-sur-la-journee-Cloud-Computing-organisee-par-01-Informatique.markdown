@@ -5,6 +5,8 @@ tags: CLOUD_COMPUTING GOOGLE INFRASTRUCTURE SAAS
 date:       2010-03-18 7:00:00
 author:     "sebbrochet"
 comments: true
+redirect_from:
+  - /post/Retours-sur-la-journée-Cloud-Computing-organisée-par-01-Informatique
 ---
 
 Le 16 mars dernier, j'ai eu le plaisir d'assister à la journée dédiée au thème du Cloud Computing et du Saas, organisée par l'hebdomadaire [01 informatique](http://www.01net.com/). Une journée très dense **avec pas moins de 13 interventions** qui ont permis de couvrir de nombreuses thématiques: les services à la demande, la virtualisation, la sécurité, le poste client, l'évolution de la gouvernance, ...  

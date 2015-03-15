@@ -5,6 +5,8 @@ tags: BRICOLAGE HUMOUR ITIL
 date:       2011-10-18 7:00:00
 author:     "sebbrochet"
 comments: true
+redirect_from:
+  - /post/ITIL-dans-vos-toilettes...ou-comment-mettre-en-place-une-gestion-des-incidents-et-des-problèmes-pour-votre-chasse-d-eau-!
 ---
 
 ...ou comment mettre en place une **gestion des incidents et des problèmes** pour votre chasse d'eau !  

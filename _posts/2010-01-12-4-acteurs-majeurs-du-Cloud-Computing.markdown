@@ -5,6 +5,8 @@ tags: AMAZON CLOUD_COMPUTING GOOGLE MICROSOFT SALESFORCE
 date:       2010-01-12 7:00:00
 author:     "sebbrochet"
 comments: true
+redirect_from:
+  - /post/4-acteurs-majeurs-du-Cloud-Computing
 ---
 
 Le **Cloud Computing** (ou nuage de calcul) correspond à la fourniture de ressources informatiques à la demande sous forme d'un service facturé selon le volume consommé.

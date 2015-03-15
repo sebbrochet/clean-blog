@@ -5,6 +5,8 @@ tags: NAGIOS NAGIOSCHECKER NAGVIS OPENSOURCE SUPERVISION
 date:       2009-11-27 12:00:00
 author:     "sebbrochet"
 comments: true
+redirect_from:
+  - /post/Le-champion-de-la-supervision-open-source
 ---
 
 Quand on parle de supervision, un nom de logiciel vient tout de suite à l'esprit.  
