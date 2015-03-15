@@ -6,7 +6,7 @@ date:       2011-11-29 7:00:00
 author:     "sebbrochet"
 comments: true
 redirect_from:
-  - /post/Résumé-du-9ème-salon-itSMF-France-(29-novembre-2011)
+  - /post/Résumé-du-9ème-salon-itSMF-France-(29-novembre-2011)/
 ---
 
 Le mardi 29 novembre 2011 se tenait au CNIT le 9ème salon annuel de l'[itSMF France](http://www.itsmf.fr/). Placé sous le signe des services, le thème majeur de cette édition 2011 était l'Organisation de l'IT pour les services. J'ai eu le plaisir de participer à cet évènement (merci à Samuel Gaulay d'[IT Social](http://itsocial.fr) pour l'invitation !) et je vous propose de passer en revue les moments forts de ce salon.  

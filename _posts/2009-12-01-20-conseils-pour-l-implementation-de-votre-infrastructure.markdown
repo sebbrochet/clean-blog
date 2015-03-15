@@ -6,7 +6,7 @@ date:       2009-12-01 7:00:00
 author:     "sebbrochet"
 comments: true
 redirect_from:
-  - /post/20-conseils-pour-l-implémentation-de-votre-infrastructure
+  - /post/20-conseils-pour-l-implémentation-de-votre-infrastructure/
 ---
 
 Ça y est, [vous avez bouclé la conception]({{ site.url }}/2009/11/24/15-conseils-pour-la-conception-de-votre-infrastructure/) et vient le moment de penser à l'implémentation !  

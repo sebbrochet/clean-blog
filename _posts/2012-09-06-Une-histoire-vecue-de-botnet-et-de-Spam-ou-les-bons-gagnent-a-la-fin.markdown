@@ -6,7 +6,7 @@ date:       2012-09-06 12:00:00
 author:     "sebbrochet"
 comments: true
 redirect_from:
-  - /post/Une-histoire-(vecue)-de-botnet-et-de-Spam-ou-les-bons-gagnent-a-la-fin
+  - /post/Une-histoire-(vecue)-de-botnet-et-de-Spam-ou-les-bons-gagnent-a-la-fin/
 ---
 
 Tout a commencé par un utilisateur qui se plaignait qu'il ne recevait pas les mails de notification de ses traitements automatiques. Plus précisément, il rapportait que les mails en question étaient considérés comme Spam et renvoyés à l'émetteur. L'analyse de ses "bounces" montre alors très clairement la raison du retour: l'adresse IP d'émission du mail fait partie de la liste CBL de Spamhaus...  

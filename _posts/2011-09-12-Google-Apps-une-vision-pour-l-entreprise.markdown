@@ -6,7 +6,7 @@ date:       2011-09-12 7:00:00
 author:     "sebbrochet"
 comments: true
 redirect_from:
-  - /post/Google-Apps-:-une-vision-pour-l-entreprise
+  - /post/Google-Apps-:-une-vision-pour-l-entreprise/
 ---
 
 Vous avez certainement déjà entendu parler de Google Apps, la suite bureautique en ligne de Google. Peut-être l'utilisez-vous à titre personnel ? Mais avez-vous eu l'occasion de la mettre en œuvre dans un cadre professionnel ?  

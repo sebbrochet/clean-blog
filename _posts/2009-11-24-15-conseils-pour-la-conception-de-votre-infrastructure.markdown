@@ -6,7 +6,7 @@ date:       2009-11-24 7:00:00
 author:     "sebbrochet"
 comments: true
 redirect_from:
-  - /post/15-conseils-pour-la-conception-de-votre-infrastructure
+  - /post/15-conseils-pour-la-conception-de-votre-infrastructure/
 ---
 
 La conception d'une infrastructure équilibrée et conforme aux besoins demande un peu de préparation.

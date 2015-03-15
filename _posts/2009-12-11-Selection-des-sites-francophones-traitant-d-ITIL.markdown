@@ -6,7 +6,7 @@ date:       2009-12-11 7:00:00
 author:     "sebbrochet"
 comments: true
 redirect_from:
-  - /post/Sélection-des-sites-francophones-traitant-d-ITIL
+  - /post/Sélection-des-sites-francophones-traitant-d-ITIL/
 ---
 
 Contrairement à leurs homologues anglo-saxon, les sites webs qui traitent d'ITIL en français sont assez rares.  

@@ -6,7 +6,7 @@ date:       2009-12-22 7:00:00
 author:     "sebbrochet"
 comments: true
 redirect_from:
-  - /post/JIRA-pour-appuyer-une-démarche-ITIL
+  - /post/JIRA-pour-appuyer-une-démarche-ITIL/
 ---
 
 Quand se pose le choix d'un outil pour appuyer la mise en place du référentiel ITIL, plusieurs possibilités se présentent:

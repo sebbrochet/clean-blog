@@ -6,7 +6,7 @@ date:       2009-12-04 7:00:00
 author:     "sebbrochet"
 comments: true
 redirect_from:
-  - /post/dans-la-supervision-il-y-a-des-cactus
+  - /post/dans-la-supervision-il-y-a-des-cactus/
 ---
 
 [Nagios est le champion de la supervision open source]({{ site.url }}/2009/11/27/Le%20champion%20de%20la%20supervision%20open-source/). Mais il partage la place avec un autre outil d'exception : **Cacti**.

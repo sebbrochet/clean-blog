@@ -6,7 +6,7 @@ date:       2010-02-19 7:00:00
 author:     "sebbrochet"
 comments: true
 redirect_from:
-  - /post/Quand-viadeo.com-a-des-problèmes-de-mémoire
+  - /post/Quand-viadeo.com-a-des-problèmes-de-mémoire/
 ---
 
 C'était un soir comme tous les autres. J'étais face à mon ordinateur à surfer sur internet.  
