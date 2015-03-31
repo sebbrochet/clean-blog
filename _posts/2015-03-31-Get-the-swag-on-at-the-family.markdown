@@ -14,7 +14,7 @@ comments: true
 
 Ici justement le cadre est particulièrement **agréable**.
 
-[!thefamily](img/2015/thefamily.jpg)
+![thefamily](/img/2015/thefamily.jpg)
 
 Au menu de l'édition #17 qui s'est tenue hier soir à 18H30, 3 intervenants pour nous parler d'[UX](http://fr.wikipedia.org/wiki/Exp%C3%A9rience_utilisateur) (User eXperience):
 
