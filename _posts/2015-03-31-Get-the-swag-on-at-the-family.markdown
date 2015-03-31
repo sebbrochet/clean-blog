@@ -35,21 +35,21 @@ Et pourquoi pas, à 3 également, en ajoutant un représentant du Business.
 Son constat, c'est qu'en France, l'UX était encore quasi-inconnue au début des années 2000.  
 Et que pour progresser sur l'expérience des utilisateurs, il fallait traverser le channel ou carrément l'océan atlantique.  
 C'est ce qu'elle a fait en travaillant à Londres sur des projets où elle a pu faire une grosse part de recherche avec les utilisateur et pas seulement des wireframes (comme c'est encore souvent le cas aujourd'hui en France !).  
-Enfin, elle nous a présenté un canvas assez complet sur l'ensemble des éléments qui selon elle entre dans le cadre du travail de l'UX.  
+Enfin, elle nous a présenté un canvas assez complet sur l'ensemble des éléments qui selon elle entrent dans le cadre du travail de l'UX.  
 Dommage que je n'arrive pas à le trouver dispo en ligne...  
 
 **Alberta**, qui venait de Londres, a basé sa présentation sur une application de navigation appelée [CityMapper](https://citymapper.com/).  
 Cette application qui fonctionne à la fois sur PC (web) et sur mobile (application) permet d'être guidé pour aller d'un point à l'autre en empruntant plusieurs types de transport.  
-Alberta souhaitait pouvoir s'authentifier sur le mobile avec un compte (email + mot de passe) plutôt que d'utiliser directement un compte de réseau social.  
+Alberta souhaitait pouvoir s'authentifier sur le mobile avec un compte "email + mot de passe" plutôt que d'utiliser directement un compte de réseau social.  
 CityMapper a finalement *implémenté* cette fonctionnalité. Le hic, c'est que la création du compte associé n'est possible qu'à partir d'un mobile !  
 Côté web, seule la connexion est possible et avec un compte de réseau social.  
-Alberta nous raconte cette petite histoire pour nous illustrer les différences entre un UX Designer et un Product Manager.  
-Elle pense que c'est le Product Manager chez CityMapper qui a poussé pour l'implémentation de cette fonctionnalité.  
-L'UX Designer va se concentrer sur l'utilisateur (ergonomie, interface, expérience) tandis que le Product Manager va lui se concenter sur le Produit (Budget, délais, fonctionnalités).  
+Alberta nous raconte cette petite anectode pour nous illustrer les différences entre un UX Designer et un Product Manager.  
+Elle pense que c'est le Product Manager chez CityMapper qui a poussé pour l'implémentation de cette fonctionnalité :-)  
+L'UX Designer va se concentrer sur l'utilisateur (ergonomie, interface, expérience) tandis que le Product Manager va lui se concentrer sur le Produit (Budget, délais, fonctionnalités).  
 Et si vous lancez votre starup, son conseil c'est de recruter plutôt l'UX Designer que le Product Manager.  
 Il sera temps plus tard de recruter un Product Manager quand vous travaillerez sur plusieurs produits.
 
-Bien ayant apprécié ces 3 speakers, j'ai trouvé que la qualité s'améliorait au fur et à mesure des présentations.
+Bien qu'ayant apprécié ces 3 speakers, j'ai trouvé que la qualité s'améliorait au fur et à mesure des présentations.
 
 Sur les coups de 20H15 et avec un peu de retard sur le planning, j'ai pu échanger sur place avec [quelques autres participants](http://kirk-agency.fr/).  
 
