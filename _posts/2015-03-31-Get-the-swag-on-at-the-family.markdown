@@ -9,4 +9,4 @@ header-img: "img/2015/gettheswagon.jpg"
 comments: true
 ---
 
-[Get the SWAG on](http://www.meetup.com/Get-the-SWAG-on/) c'est un évènement 
+[Get the SWAG on](http://www.meetup.com/Get-the-SWAG-on/) c'est un évènement
