@@ -9,4 +9,4 @@ header-img: "img/2015/gettheswagon.jpg"
 comments: true
 ---
 
-[Get the SWAG on](http://www.meetup.com/Get-the-SWAG-on/)
+[Get the SWAG on](http://www.meetup.com/Get-the-SWAG-on/) c'est un évènement mensuel organisé par [TheFamily](http://www.thefamily.co/) pour faire rencontrer les artistes (au sens "Les Gobelins"" du terme) et les tech.
