@@ -16,7 +16,7 @@ Ici justement le cadre est particulièrement **agréable**.
 
 [!thefamily](/img/2015/thefamily.jpg)
 
-Au menu l'édition #17 qui s'est tenu hier soir à 18H30, 3 intervenants pour nous parler d'[UX](http://fr.wikipedia.org/wiki/Exp%C3%A9rience_utilisateur) (User eXperience):
+Au menu de l'édition #17 qui s'est tenue hier soir à 18H30, 3 intervenants pour nous parler d'[UX](http://fr.wikipedia.org/wiki/Exp%C3%A9rience_utilisateur) (User eXperience):
 
 * [Michael Rawling](https://www.linkedin.com/in/michaelrawling) : Senior User Experience Engineer at [Unruly](http://unruly.co/)
 * [Pauline Thomas)(https://www.linkedin.com/in/paulinethomas) : UX Designer et fondatrice de [Laptop](http://www.lelaptop.com/)
