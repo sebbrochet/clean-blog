@@ -26,7 +26,7 @@ Mais plutôt de balayer les principes fondamentaux pour bien faire comprendre ce
 
 J'ai déjà eu le plaisir de faire ce BBL chez [SOFTEAM Cadextan](http://www.softeam.fr/).  
 
-->![BBL chez SOFTEAM Cadextan](/img/2015/bbl_softeam_cadextan.png)<-
+![BBL chez SOFTEAM Cadextan](/img/2015/bbl_softeam_cadextan.png)
 
 Devant un public principalement composé de développeurs, j'ai pu abordé entre autres:
 
