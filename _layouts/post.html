@@ -17,7 +17,7 @@ layout: default
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
                     <span class="meta">Post&eacute; par {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} le <!-- Whitespace added for readability -->
-{{ post.date | date: "%-d" }}					
+{{ page.date | date: "%-d" }}					
 {% assign m = page.date | date: "%-m" %}
 {% case m %}
   {% when '1' %}janvier
