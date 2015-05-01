@@ -26,7 +26,7 @@ Mais plutôt de balayer les principes fondamentaux pour bien faire comprendre ce
 
 J'ai déjà eu le plaisir de faire ce BBL chez [SOFTEAM Cadextan](http://www.softeam.fr/).  
 
-![BBL chez SOFTEAM Cadextan](/img/2015/bbl_softeam_cadextan.png)
+->![BBL chez SOFTEAM Cadextan](/img/2015/bbl_softeam_cadextan.png)<-
 
 Devant un public principalement composé de développeurs, j'ai pu abordé entre autres:
 
@@ -36,7 +36,7 @@ Devant un public principalement composé de développeurs, j'ai pu abordé entre
 * Les niveaux de maturité pour évaluer son avancement
 * Les types d'organisation pour faciliter une démarche DevOps
 
-La session s'est terminée par un traditionnel échange de questions/réponses avec notamment des interrogations sur:
+La présentation s'est terminée par un traditionnel échange de questions/réponses avec notamment des interrogations sur:
 
 * les processus à mettre en place
 * les outils à utiliser
