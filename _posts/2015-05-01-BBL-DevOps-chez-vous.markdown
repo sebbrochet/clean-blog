@@ -40,8 +40,10 @@ La présentation s'est terminée par un traditionnel échange de questions/répo
 
 * les processus à mettre en place
 * les outils à utiliser
-* le support de Windows en termes d'automatisation
+* [le support de Windows en termes d'automatisation](/2015/05/04/Configuration-management_sous-windows/)
 
 Je compte bien approfondir ces différents points dans de prochains billets sur ce blog !
 
 Alors si vous aussi, vous êtes intéressé par ce BBL, n'hésitez pas à prendre contact avec moi via la page de [réservation](http://www.brownbaglunch.fr/baggers.html#Sébastien_Brochet_Paris) sur le site BrownBagLunch France.
+
+**Edit du 4 mai 2015:** ajout du lien vers le billet sur le Configuration Management sous Windows.
