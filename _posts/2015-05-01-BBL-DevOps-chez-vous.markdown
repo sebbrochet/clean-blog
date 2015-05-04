@@ -40,7 +40,7 @@ La présentation s'est terminée par un traditionnel échange de questions/répo
 
 * les processus à mettre en place
 * les outils à utiliser
-* [le support de Windows en termes d'automatisation](/2015/05/04/Configuration-management_sous-windows/)
+* le [support de Windows](/2015/05/04/Configuration-management_sous-windows/) en termes d'automatisation
 
 Je compte bien approfondir ces différents points dans de prochains billets sur ce blog !
 
