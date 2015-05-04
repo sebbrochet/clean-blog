@@ -47,6 +47,7 @@ DSC se compose de 3 éléments:
 * Configuration DSL
    * Cet élément correspond à des extensions de langage au-dessus de **PowerShell**
 
+   
 #### OneGet - Un gestionnaire de paquets (pour les commander tous)
 
 [OneGet](https://github.com/OneGet/oneget) est un gestionnaire de paquets **unifié**. Unifié, au sens où il encapsule l'accès à différents gestionnaires de paquets:
@@ -71,6 +72,7 @@ Par ordre d'ancienneté:
 * Chef
 * Ansible
 * Saltstack
+
 
 ##### CFEngine
 
@@ -107,7 +109,7 @@ Ansible ne s'exécute pas sous Windows mais contient des modules spécifiques à
 * ajout de **rôles**
 * gestion des **utilisateurs**
 * gestion des **groupes**
-* installation d'installeurs au format *MSI*
+* exécution d'installeurs au format *MSI*
 * gestion des **services**
 * gestion des **mises-à-jours de sécurité**
 
@@ -119,6 +121,8 @@ Seulement une partie des composants de Saltstack s'exécute sous Windows. Il s'a
 
 Saltstack permet de stocker les applications à installer dans un [espace dédié](http://docs.saltstack.com/en/latest/topics/windows/windows-package-manager.html) et joue le rôle de gestionnaire de paquets.
 
+Plutôt que de fournir des modules spécifiques à Windows, Saltstack ré-utilise les modules existants mais leur comportement s'adapte à l'environnement cible.
+
 #### Conclusion
 
-Le Configuration Management ne se fait pas encore avec le même confort sous Unix et Windows. Mais depuis quelques mois, de plus en plus d'outils prennent en charge les spécificités de l'environnement Windows et Microsoft [met les bouchées doubles](http://blogs.msdn.com/b/powershell/archive/2014/12/10/wmf-5-0-preview-defining-quot-experimental-designs-quot-and-quot-stable-designs-quot.aspx). Gageons que d'ici la fin de l'année, ce support se sera étoffé. Rendez-vous est donc pris pour en reparler à ce moment là !
+Le Configuration Management ne se fait pas encore avec le même confort sous Unix et Windows. Mais depuis quelques mois, de plus en plus d'outils prennent en charge les spécificités de l'environnement Windows et Microsoft [met les bouchées doubles](http://blogs.msdn.com/b/powershell/archive/2014/12/10/wmf-5-0-preview-defining-quot-experimental-designs-quot-and-quot-stable-designs-quot.aspx) pour ajouter rapidement du contenu. Gageons que d'ici la fin de l'année, ce support se sera étoffé. Rendez-vous est donc pris pour en reparler à ce moment là !
