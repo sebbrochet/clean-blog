@@ -11,7 +11,7 @@ comments: true
 
 ### Introduction
 
-Cela fait plusieurs années que je m'intéresse au monde des **startups**.
+Cela fait maintenent plusieurs années que je m'intéresse au monde des **startups**.
 Et ce qui m'a toujours frappé c'est la connaissance, plutôt limitée en général, des fondateurs sur la nature des profils techniques.
 
 #### Les fondateurs de startup
@@ -19,6 +19,7 @@ Très (trop ?) souvent les fondateurs de startups sont issus de formations en **
 Ils ont travaillé sur une **idée**, fait un **business-plan** et vient le moment de trouver la ou les personnes pour passer de l'idée au **prototype**.
 
 Il y a 2 cas de figures:
+
 * Pour certains, une 1ère version sera réalisée (ou plutôt bricolée) par un ami qui s'y connait un peu (en PHP en général).
 * Pour d'autres, une version plus ambitieuse sera réalisée via une agence web (mais toujours en PHP).
 
@@ -36,21 +37,20 @@ Le but de cette version initiale n'est pas durer ni de pouvoir monter à l'éche
 Quand le business model sera validé, la version initiale devra progressivement être ré-écrite pour mieux coller au Métier et respecter des bonnes pratiques pour assurer la pérennité des développements.
 
 #### Qu'est-ce qu'un développeur ?
-C'est une personne qui passe quasiment tout son temps professionnel (8H/jour) à faire du développement logiciel.
+C'est une personne qui passe quasiment tout son temps professionnel à faire du développement logiciel.
 C'est-à-dire à coder dans un langage informatique une application (web).
 C'est quelqu'un qui est plutôt en début de carrière, qui ne maitrise que peu de langages ou frameworks différents et qui a réalisé peu de projets en entreprise.
-Il travaille en général sur des tâches très précises et bien délimitées comme des corrections de bugs ou des évolutions mineures.
-(il y a bien sûr des exceptions mais je parle ici du cas général).
+Il travaille en général sur des tâches très précises et bien délimitées comme des corrections de bugs ou des évolutions mineures (il y a bien sûr des exceptions mais je parle ici du cas général).
 
 #### Qu'est-ce qu'un Lead-Developpeur ?
-C'est notre développeur au bout de quelques années après plusieurs projets professionnels à son actif.
+C'est notre développeur au bout de quelques années et plusieurs projets professionnels à son actif.
 Au fil des années, il a acquis de l'expérience et est le référent dans son domaine d'expertise.
 Il passe la majeure partie de son temps à coder et c'est en priorité à lui que l'on confie les développements les plus complexes.
 Mais il aide également les développeurs moins experimentés en cas de difficultés et il fait aussi un peu de conception.
 
 #### Qu'est-ce qu'un CTO ?
 CTO est l'acronyme de Chief Technology Officer, en français, on va plutôt parler de Directeur Technique.
-Son rôle est de superviser tous les aspects techniques en rapport avec le produit qui est développée par la startup.
+Son rôle est de superviser tous les aspects techniques en rapport avec le produit qui est développé par la startup.
 C'est quelqu'un qui a travaillé sur plusieurs projets professionnes, dans des Métiers différents et qui a fait de l'encadrement.
 Il a été développeur à ses débuts, est devenu Lead-Développeur par la suite.
 Quand l'opportunité s'est présentée, il a fait le choix de devenir Manager pour continuer à faire progresser sa fiche de paie.
@@ -59,6 +59,7 @@ C'est lui qui conçoit l'ensemble de la solution technique, qui fait les recherc
 
 #### Les développeurs sont des sportifs ?
 Faire du développement c'est un peu comme pratiquer un sport: pour être bon et conserver son niveau, il faut s'entrainer régulièrement.
+
 * Un développeur s'entraine 8H/jour et s'il aime vraiment ce qu'il fait, il fait de la veille pendant son temps libre.
 * Un Lead-developpeur pratique également plusieurs heures par jour, assez souvent en se spécialisant un temps sur un langage et/ou un framework.
 * Le CTO ne s'entraine plus trop, il délègue le codage aux développeurs de l'équipe qu'il dirige et son expertise précédente s'est un peu émoussée.
@@ -75,4 +76,5 @@ Un Lead-Développeur, si possible secondé par un développeur, est un meilleur 
 
 Alors pourquoi parler de CTO pour accompagner des startups tout juste naissantes ?
 Probablement parce-que le terme est plus valorisant:
+
 Iriez-vous à une soirée "AdoptaDev" ou "AdoptaLeadDev" ?
