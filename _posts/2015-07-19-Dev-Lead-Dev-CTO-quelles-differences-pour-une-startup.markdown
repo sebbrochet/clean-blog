@@ -27,7 +27,7 @@ Dans les 2 cas, pour aller plus loin et mieux coller au(x) Métier(s) de la star
 Et c'est là que ça se complique et que les différences entre les rôles techniques deviennent floues pour nos fondateurs.
 
 Ainsi, de très jeunes startups se mettent à chercher un "CTO" alors qu'elles ont plutôt besoin d'un Lead-Développeur.
-Comme nous allons le voir, les 2 termes ne sont pas interchangeables et à la décharge de ces fondateurs de startup, [certains accélérateurs -font- entretiennent également la confusion](http://yeswecrowd.co/adopt-a-cto/)
+Comme nous allons le voir, les 2 termes ne sont pas interchangeables et à la décharge de ces fondateurs de startup, [certains accélérateurs entretiennent également la confusion](http://yeswecrowd.co/adopt-a-cto/)
 
 #### Une version initiale, ça sert à quoi ?
 La version initiale du produit sert à valider le business model.
@@ -49,7 +49,7 @@ Il passe la majeure partie de son temps à coder et c'est en priorité à lui qu
 Mais il aide également les développeurs moins experimentés en cas de difficultés et il fait aussi un peu de conception.
 
 #### Qu'est-ce qu'un CTO ?
-CTO est l'acronyme de Chief Technology Officer, en français, on va plutôt parler de Directeur Technique.
+CTO est l'acronyme de *Chief Technology Officer*. En français, on va plutôt parler de Directeur Technique.
 Son rôle est de superviser tous les aspects techniques en rapport avec le produit qui est développé par la startup.
 C'est quelqu'un qui a travaillé sur plusieurs projets professionnes, dans des Métiers différents et qui a fait de l'encadrement.
 Il a été développeur à ses débuts, est devenu Lead-Développeur par la suite.
@@ -64,6 +64,7 @@ Faire du développement c'est un peu comme pratiquer un sport: pour être bon et
 * Un Lead-developpeur pratique également plusieurs heures par jour, assez souvent en se spécialisant un temps sur un langage et/ou un framework.
 * Le CTO ne s'entraine plus trop, il délègue le codage aux développeurs de l'équipe qu'il dirige et son expertise précédente s'est un peu émoussée.
 
+
 #### Toujours prêt à recruter un CTO ?
 Le CTO ne doit pas être le seul profil technique dans une startup, si c'est le cas, il ne jouera pas son role de CTO.
 Il aura la tête dans le guidon et ne pourra pas prendre le recul nécessaire pour assurer une vision pour la suite.
@@ -71,10 +72,10 @@ Au moment d'assurer le passage à l'échelle supérieure, on préféra (sous la 
 
 #### Conclusion
 
-On le voit donc, confier à un CTO, le rôle de développer la version initiale d'une application n'est pas le meilleur choix.
+On le voit donc, confier à un CTO le rôle de développer la version initiale d'une application n'est pas le meilleur choix.
 Un Lead-Développeur, si possible secondé par un développeur, est un meilleur compromis.
 
 Alors pourquoi parler de CTO pour accompagner des startups tout juste naissantes ?
-Probablement parce-que le terme est plus valorisant:
+Probablement parce-que le terme est plus accrocheur:
 
 Iriez-vous à une soirée "AdoptaDev" ou "AdoptaLeadDev" ?
