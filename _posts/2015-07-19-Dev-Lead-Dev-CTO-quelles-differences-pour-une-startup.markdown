@@ -84,4 +84,4 @@ Un Lead-Développeur, si possible secondé par un développeur, est un meilleur 
 Alors pourquoi parler de CTO pour accompagner des startups tout juste naissantes ?
 Probablement parce que le terme est plus accrocheur:
 
-**Iriez-vous à une soirée "AdoptaDev" ou "AdoptaLeadDev" ?***
+**Iriez-vous à une soirée "AdoptaDev" ou "AdoptaLeadDev" ?**
