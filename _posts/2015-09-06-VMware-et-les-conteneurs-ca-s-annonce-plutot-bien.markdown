@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "VMware et les conteneurs"
