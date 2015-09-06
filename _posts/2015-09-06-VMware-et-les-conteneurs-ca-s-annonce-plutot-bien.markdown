@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VMware et les conteneurs"
-subtitle:   "Ca s'annonce plutôt bien !"
+subtitle:   "Ca s'annonce plutôt bien"
 tags: VMWARE CONTENEURS DOCKER
 date:       2015-09-96 17:00:00
 author:     "sebbrochet"
