@@ -3,7 +3,7 @@ layout: post
 title: "Mware et les conteneurs"
 subtitle:   "14-15 avril au MAS"
 tags: DEVOPS DEVOPSDAYS PARIS
-date:       2015-09-96 17:00:00
+date:       2015-09-06 17:00:00
 author:     "sebbrochet"
 header-img: "img/2015/paris.jpg"
 comments: true
