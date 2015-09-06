@@ -1,26 +1,55 @@
 ---
 layout: post
-title: "Mware et les conteneurs"
-subtitle:   "14-15 avril au MAS"
-tags: DEVOPS DEVOPSDAYS PARIS
+title: "VMware et les conteneurs"
+subtitle:   "Ca s'annonce plutôt bien"
+tags: VMWARE CONTENEURS DOCKER
 date:       2015-09-06 17:00:00
 author:     "sebbrochet"
-header-img: "img/2015/paris.jpg"
+header-img: "img/2015/vmworld_2015.jpg"
 comments: true
 ---
 
-Si vous suivez la scène DevOps, vous avez sûrement déjà entendu parlé des **DevOpsDays**, ces évènements sur 2 jours qui rassemblent des profils variés (Dev, Ops, QA, PO, ...) pour échanger sur leurs pratiques.  
-Initié en [octobre 2009 par Patrick Debois](http://www.infoq.com/news/2014/12/5-years-devops-days-qa), le format est toujours le même, des présentations le matin et des [forums ouverts (Openspaces en anglais)](http://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert) l'après-midi.  
-Et pour les habitués des [Paris DevOps meetups](http://parisdevops.fr/meetups.html), les openspaces n'ont plus de secret pour vous :-)  
 
-Les DevOpsDays ont lieu plusieurs fois dans l'année dans plusieurs villes au monde. Chaque année d'avantage de villes organisent ces évènements, preuve de l'engouement des praticiens à vouloir échanger entre pairs.  
-La dernière édition en France des DevOpsDays a eu lieu en 2013 et cette année se prépare une nouvelle édition qui aura lieu [les 14 et 15 avril](http://www.devopsdays.org/events/2015-paris/) à Paris au [MAS](http://www.mas-paris.fr/informations.html).  
+### Introduction
 
-Le CFP vient de se terminer et les organisateurs, dont j'ai la chance de faire partie, vont se réunir ce week-end pour sélectionner les speakers. Sans dévoiler à ce stade, le contenu des présentations, je peux tout du moins affirmer que nous avons une grande variété de sujets proposés.  
-Ce qui laisse présager au final d'une bonne représentation de "l'état de l'art" en terme d'expériences DevOps !  
+Reconnaissons-le, **Docker** est *génial*. Il a démocratisé l'usage des **conteneurs** en fournissant un ensemble d'outils très simples et intégrés pour créer, stocker et exécuter des applications sous forme de conteneurs.
 
-Je vous invite donc à surveiller [la page du programme](http://www.devopsdays.org/events/2015-paris/program/) pour avoir le contenu précis des présentations.  
-Et si vous n'avez pas encore votre billet, il reste des places mais dépêchez-vous ;-)  
-  
-**Edit du 13/03/2015**: Le programme est maintenant dispo avec des talks plutôt orientés culture DevOps. Nous aurons l'occasion de parler des outils dans les openspaces !
+Un autre outil a aussi révolutionné en son temps la création, le stockage et l'exécution de **machines virtuelles**. Cet outil, c'est **vSphere** de VMware.
 
+### La fin des machines virtuelles ?
+
+On a enterré un peu vite le vieux lion en commençant par prédire le remplacement des VM, **jugées trop lourdes**, par des conteneurs. La prophétie aurait pu se réaliser si les conteneurs proposaient le même niveau d'étanchéité qu'une machine virtuelle. Mais même en [utilisant plusieurs techniques](https://docs.docker.com/articles/security/) (AppArmor, SELinux, GRSEC, capabilities ...) ce n'est toujours pas le cas et c’est nettement [plus complexe](https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.6_Benchmark_v1.0.0.pdf) à mettre en oeuvre. Et au final, il n'est pas possible de faire du multi-tenant en toute sérénité.
+
+Les [outils de gestion des conteneurs](http://panamax.io/) restent assez basiques si on les compare à vCenter:
+* Il manque encore un système fiable de **migration à chaud** d'un conteneur entre 2 hosts différents ( => **vMotion**)
+* Un équilibrage **dynamique** des conteneurs sur différents hosts en fonction de la charge CPU et mémoire serait bien aussi (=> **DRS**).  
+
+Tous ces points cantonnent souvent **l'usage des conteneurs aux phases de développement et de tests**.
+
+### La réponse de VMware
+
+C'est pourquoi j'ai suivi avec beaucoup d'intérêt la réaction de VMware à la menace ~~fantôme~~ posée par les conteneurs. VMware a répondu il y a quelques mois de manière plutôt subtile sous la forme du [projet **Bonneville**](https://blogs.vmware.com/cloudnative/introducing-project-bonneville/). Ce projet permet d'intégrer **nativement** un conteneur au sein de son architecture vSphere/ESX, tout en obtenant des temps de démarrage et une empreinte mémoire très faibles et en conservant les facilités (vMotion, DRS, ...) auxquelles nous sommes habitués avec les VM.
+
+Le [dernier salon VMWorld](http://venturebeat.com/2015/08/31/vmware-launches-vsphere-integrated-containers-and-the-photon-platform/) a vu la poursuite et l'intégration de cet effort sous la forme de 2 plateformes, **pour le moment au stade de *Technology Previews***, à même de gérer les conteneurs:
+* vSphere Integrated Containers: pour l'utilisation ponctuelle de conteneurs au milieu de VM classiques
+* Photon Platform: pour exécuter spécifiquement un grand nombre de conteneurs.
+
+### Le cloud (privé) dans tout ça ?
+
+C'est très prometteur pour faciliter l'adoption des conteneurs en production dans le cadre d'un cloud **privé**:
+* Les équipes Ops conservent le produit qu'elles connaissent bien et apprécient (vCenter)
+* Les investissements (licences, serveurs, SAN, ...) conséquents et déjà réalisés sont valorisés
+* On a un standard partagé entre les Dev et les Ops pour **packager** une application **et ses composants**.
+
+### Un petit mot sur le cloud public
+
+[Amazon](https://aws.amazon.com/fr/documentation/ecs/), [Google](https://cloud.google.com/container-engine/) et plusieurs autres ne pouvaient pas laisser passer le train des conteneurs sans réagir. Chacun d'eux propose ainsi sa déclinaison du *cloud à base de conteneurs*, avec des outils plus ou moins standards qu'ils tentent d'imposer. Cependant les limitations évoquées plus haut restent d'actualité.
+
+Il est aussi intéressant de constater qu'au niveau de la tarification, il n'y a  pas d'innovation:
+* Le coût d'utilisation des conteneurs correspond aux **coût des machines virtuelles associées à leur exécution** !
+
+### Conclusion
+
+VMware n'a pas encore annoncé de date définitive pour la disponibilité de ces évolutions au grand public. On peut toutefois tabler sur une sortie dans le courant de l'année 2016.
+
+Ce qui laisse donc encore quelques mois aux équipes Dev et Ops pour [se préparer et travailler ensemble](http://blog.sebbrochet.com/2015/05/01/BBL-DevOps-chez-vous/) sur une chaîne logicielle complète a base de conteneurs !
