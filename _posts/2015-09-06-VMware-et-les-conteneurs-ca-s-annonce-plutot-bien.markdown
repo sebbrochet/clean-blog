@@ -9,6 +9,7 @@ header-img: "img/2015/vmworld_2015.jpg"
 comments: true
 ---
 
+
 ### Introduction
 
 Reconnaissons-le, **Docker** est *génial*. Il a démocratisé l'usage des **conteneurs** en fournissant un ensemble d'outils très simples et intégrés pour créer, stocker et exécuter des applications sous forme de conteneurs.
