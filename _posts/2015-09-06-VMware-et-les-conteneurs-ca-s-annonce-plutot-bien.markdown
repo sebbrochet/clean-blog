@@ -29,7 +29,7 @@ Tous ces points cantonnent souvent **l'usage des conteneurs aux phases de dével
 
 ### La réponse de VMware
 
-C'est pourquoi j'ai suivi avec beaucoup d'intérêt la réaction de VMware à la menace <del>fantôme</del> posée par les conteneurs. VMware a répondu il y a quelques mois de manière plutôt subtile sous la forme du [projet **Bonneville**](https://blogs.vmware.com/cloudnative/introducing-project-bonneville/). Ce projet permet d'intégrer **nativement** un conteneur au sein de son architecture vSphere/ESX, tout en obtenant des temps de démarrage et une empreinte mémoire très faibles et en conservant les facilités (vMotion, DRS, ...) auxquelles nous sommes habitués avec les VM.
+C'est pourquoi j'ai suivi avec beaucoup d'intérêt la réaction de VMware à la menace <del>fantôme</del> posée par les conteneurs. VMware a répondu il y a quelques mois de manière plutôt subtile sous la forme du [projet **Bonneville**](https://blogs.vmware.com/cloudnative/introducing-project-bonneville/). Ce projet permet d'intégrer **nativement** un conteneur au sein de l'architecture vSphere/ESX, tout en obtenant des temps de démarrage et une empreinte mémoire très faibles et en conservant les facilités (vMotion, DRS, ...) auxquelles nous sommes habitués avec les VM.
 
 Le [dernier salon VMWorld](http://venturebeat.com/2015/08/31/vmware-launches-vsphere-integrated-containers-and-the-photon-platform/) a vu la poursuite et l'intégration de cet effort sous la forme de 2 plateformes, **pour le moment au stade de *Technology Previews***, à même de gérer les conteneurs:
 
@@ -56,4 +56,4 @@ Il est aussi intéressant de constater qu'au niveau de la tarification, il n'y a
 
 VMware n'a pas encore annoncé de date définitive pour la disponibilité de ces évolutions au grand public. On peut toutefois tabler sur une sortie dans le courant de l'année 2016.
 
-Ce qui laisse donc encore quelques mois aux équipes Dev et Ops pour [se préparer et travailler ensemble](http://blog.sebbrochet.com/2015/05/01/BBL-DevOps-chez-vous/) sur une chaîne logicielle complète a base de conteneurs !
+Ce qui laisse donc encore quelques mois aux équipes Dev et Ops pour [se préparer et travailler ensemble](http://blog.sebbrochet.com/2015/05/01/BBL-DevOps-chez-vous/) sur une usine logicielle complète à base de conteneurs !
